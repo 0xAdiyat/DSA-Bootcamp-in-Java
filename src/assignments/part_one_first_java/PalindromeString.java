@@ -6,6 +6,7 @@ public class PalindromeString {
 
         boolean palindrome = isPalindromeUsing2Pointers("A man, a plan, a canal: Panama");
         System.out.println(palindrome);
+
     }
 
     static boolean isPalindrome(String s) {
@@ -39,8 +40,7 @@ public class PalindromeString {
 
         String newStr = "";
         for (int i = 0; i < length; i++) {
-            String start = str[i].toLowerCase();
-            String end = str[length - i - 1].toLowerCase();
+            String end = str[length - i - 1];
 
             newStr += end;
         }
@@ -65,4 +65,6 @@ public class PalindromeString {
 
         return newStr.toString().equals(original);
     }
+
+
 }
