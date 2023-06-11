@@ -1,0 +1,6 @@
+
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "cgpa".(âºž°ÿÿÿÿÿ8 ò—°Š1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÝý¼8ŽÐ—°Š1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(©ë›Àüÿÿÿÿ8ÍÐ—°Š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÖ˜Öüÿÿÿÿ8¹‚›°Š1

@@ -1,0 +1,8 @@
+
+7
+java:S1643"Use a StringBuilder instead.(Ş»Îİøÿÿÿÿ
+7
+java:S1643-"Use a StringBuilder instead.(ÏüÊùûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¡‚åüÿÿÿÿ
+F
+java:S14818"+Remove this unused "length" local variable.(˜ñé şÿÿÿÿ

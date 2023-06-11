@@ -1,0 +1,9 @@
+
+Š
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "compoundInterest".(¥Ÿü©ûÿÿÿÿ8‘ŸòÅŠ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íİı¼8¡ŸòÅŠ1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ò¾ïÁ8ÁŸòÅŠ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÒ±Å8ÄŸòÅŠ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûóßß8ÅŸòÅŠ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¢¹û8ĞŸòÅŠ1
+X	java:S125"<This block of commented-out lines of code should be removed.(½Å¿©8ÒŸòÅŠ1

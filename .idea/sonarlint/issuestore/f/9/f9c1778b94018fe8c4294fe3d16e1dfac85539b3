@@ -1,0 +1,7 @@
+
+‚
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "distance".(‘ÂùÆùÿÿÿÿ8Ïïá¯Š1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íİı¼
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(öÉ”Œÿÿÿÿÿ8ïïá¯Š1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú‘ÕÆ8ğïá¯Š1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ì•ŒC8òïá¯Š1

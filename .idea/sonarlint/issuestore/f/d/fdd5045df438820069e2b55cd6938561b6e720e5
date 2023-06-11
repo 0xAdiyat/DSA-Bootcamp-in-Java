@@ -1,0 +1,7 @@
+
+„
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "depreciatedValue".( é¨@8™Ý†°Š1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÝý¼8ªÝ†°Š1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(Ðó‹˜úÿÿÿÿ8ÈÝ†°Š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢‘ö¦ÿÿÿÿÿ8ÉÝ†°Š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªì‡ÿüÿÿÿÿ8ËÝ†°Š1
