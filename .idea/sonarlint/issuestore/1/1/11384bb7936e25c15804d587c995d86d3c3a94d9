@@ -1,0 +1,11 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ÌÊ¨
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰İ€§ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉóÂ‡
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(´†˜Ü
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ĞÆú
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ÉóÂ‡
+C	java:S108:")Either remove or fill this block of code.(—×¦øÿÿÿÿ
+B
+java:S1144'",Remove this unused private "Method2" method.(¸ĞÆú
