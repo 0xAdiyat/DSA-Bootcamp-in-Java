@@ -1,0 +1,12 @@
+
+q
+java:S1488-"[Immediately return this expression instead of assigning it to the temporary variable "lcm".(Ôš”
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Õòßşÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ëÚîÓşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉãèÑÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÛşÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µæÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÚîÓşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉãèÑÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½ñßŞÿÿÿÿÿ
