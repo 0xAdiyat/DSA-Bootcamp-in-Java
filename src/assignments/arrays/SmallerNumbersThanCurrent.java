@@ -10,21 +10,30 @@ public class SmallerNumbersThanCurrent {
     }
 
     private static int[] smallerNumbersThanCurrent(int[] nums) {
-
         int smallest = nums[0];
 
         int[] res = new int[nums.length];
 
-        for (int num : nums) {
-            if (smallest > num) {
-                smallest = num;
+        int start = 0;
+        int end = nums.length - 1;
+
+        while (start <= end) {
+
+            for (int i = start + 1; i < end; i++) {
+                System.out.println(nums[i]);
+                if (nums[start] > nums[i]) {
+                    res[i] = nums[i];
+                    System.out.println(res[i]);
+                }
             }
+            start++;
         }
-        System.out.println(smallest);
         return res;
     }
 
     public static int[] smallerNumbersThanCurrentTwo(int[] nums) {
+
+
         int[] count = new int[101];
         int[] res = new int[nums.length];
 
