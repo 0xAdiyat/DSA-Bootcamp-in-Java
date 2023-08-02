@@ -10,48 +10,25 @@ public class SmallerNumbersThanCurrent {
     }
 
     private static int[] smallerNumbersThanCurrent(int[] nums) {
-        int smallest = nums[0];
-
         int[] res = new int[nums.length];
 
         int start = 0;
-        int end = nums.length - 1;
+        int end = nums.length;
 
-        while (start <= end) {
+        for (int i = start; i < end; i++) {
+            int totalCount = 0;
 
-            for (int i = start + 1; i < end; i++) {
-                System.out.println(nums[i]);
-                if (nums[start] > nums[i]) {
-                    res[i] = nums[i];
-                    System.out.println(res[i]);
+            for (int j = start; j < end; j++) {
+                if (nums[i] > nums[j]) {
+                    totalCount = totalCount + 1;
+
                 }
             }
-            start++;
-        }
-        return res;
-    }
+            res[i] = totalCount;
 
-    public static int[] smallerNumbersThanCurrentTwo(int[] nums) {
-
-
-        int[] count = new int[101];
-        int[] res = new int[nums.length];
-
-        for (int i = 0; i < nums.length; i++) {
-            count[nums[i]]++;
-        }
-
-        for (int i = 1; i <= 100; i++) {
-            count[i] += count[i - 1];
-        }
-
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == 0)
-                res[i] = 0;
-            else
-                res[i] = count[nums[i] - 1];
         }
 
         return res;
     }
+
 }
