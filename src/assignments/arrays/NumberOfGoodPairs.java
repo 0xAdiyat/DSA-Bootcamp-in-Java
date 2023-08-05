@@ -9,7 +9,6 @@ public class NumberOfGoodPairs {
     }
 
     private static int numIdenticalPairs(int[] nums) {
-        int[] res = new int[nums.length];
         int start = 0;
         int end = nums.length;
         int count = 0;
