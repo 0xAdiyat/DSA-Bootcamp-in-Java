@@ -4,8 +4,6 @@
 Å
 Q.idea/sonarlint/securityhotspotstore/b/4/b4a7bae19b29f33712a252f7621fede096989102,2\5\258160246299a60060afb7690a91b6f378e61a64
 w
-G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
-w
 G.idea/sonarlint/issuestore/e/7/e739ea06ad29baa4fe70221c1b962f8e74b24053,5\f\5fe3224978b8fe9e0e54592cf3ac56351cbe239c
 Å
 Q.idea/sonarlint/securityhotspotstore/1/8/18e86c55bcd9521e5cf9dcef6b95bef2e85fee1b,5\5\558537c1b4c8856a54419c01f4d6f2ae9612d679
@@ -74,8 +72,6 @@ G.idea/sonarlint/issuestore/b/4/b4a7bae19b29f33712a252f7621fede096989102,a\2\a2
 w
 G.idea/sonarlint/issuestore/b/8/b849e25764a5e99bfd1cc0529fe8b27cf90be29a,6\6\66a08a759d97a7cff65148814b932c3252bf9a96
 Å
-Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
-Å
 Q.idea/sonarlint/securityhotspotstore/8/d/8da6a9a9e069037e5c581ced078b8ee14dddcb4c,7\f\7fa6380514c07f1d291bc8eaf16a2cd17500f6d4
 Å
 Q.idea/sonarlint/securityhotspotstore/4/4/4403bee5014a0b3c59c672e621cb31a0829bc7aa,6\b\6bf6fded9c6b0941a41acb0e32a0024216bfcf06
@@ -137,10 +133,6 @@ w
 G.idea/sonarlint/issuestore/3/d/3d1b2069736bd83457b7e31ba48379a351383ab8,4\4\44a1c3d9e7f62f793a6f4602b812d3e0363d5e38
 w
 G.idea/sonarlint/issuestore/8/7/8793a6517267c7dbb862c488ee5422401a56950a,4\1\41f9a62c700ed5d83402187953c3ab8255fcb2be
-Å
-Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
-w
-G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a\e\ae9ddf453f55affea2d6b9e3973cac1eb2efb4e1
 w
 G.idea/sonarlint/issuestore/4/4/4403bee5014a0b3c59c672e621cb31a0829bc7aa,9\6\96115ea1e7f6fe7d429f9649fd0684329f64802d
 w
@@ -195,3 +187,15 @@ Q.idea/sonarlint/securityhotspotstore/6/1/61a536e52744b27964ac75a315e16a24e617ef
 Q.idea/sonarlint/securityhotspotstore/6/4/64018d4588a5e3ea2bbb13da7904d768e897fc1a,2\0\20cac5f099556070a9f486241facc956a7db1568
 b
 2src/assignments/functions/SumOfNaturalNumbers.java,6\4\64100572cda97287654bb063e315fddee050893f
+h
+8src/assignments/functions/PythagoreanTripletChecker.java,7\2\7216712bf6d8f6aaf75023c40676118280a0396f
+H
+DSA Bootcamp in Java.iml,9\9\99fc2d91a8af8b7b2df7fd325763c16facf5f356
+Å
+Q.idea/sonarlint/securityhotspotstore/6/4/64100572cda97287654bb063e315fddee050893f,3\2\32d95c30eb00629d16912894745cd2aba2f0f586
+^
+.src/assignments/arrays/ArrayConcatenation.java,4\d\4d16cd3ce782f89cdddc9856723c059083c2c643
+k
+;src/assignments/arrays/KidsWithGreatestNumberOfCandies.java,f\9\f94251e9ed6dc4589352781ddaacf5c5587fbec0
+V
+&src/assignments/arrays/BuildArray.java,b\d\bdfd0201057473f691beebf6325de5534d475944
