@@ -193,3 +193,7 @@ V
 +src/assignments/functions/DigitCounter.java,6\d\6d23133d0b51c2e650cdf5c1a9ba4d92efc80b08
 Å
 Q.idea/sonarlint/securityhotspotstore/6/d/6d23133d0b51c2e650cdf5c1a9ba4d92efc80b08,b\0\b00d50dc10d82fb3231db6e51f179756fb0d101e
+w
+G.idea/sonarlint/issuestore/b/0/b00d50dc10d82fb3231db6e51f179756fb0d101e,e\e\ee5ef8e37dd529927b5cb6b0aa8af80a73654e71
+Å
+Q.idea/sonarlint/securityhotspotstore/b/0/b00d50dc10d82fb3231db6e51f179756fb0d101e,1\2\12bb3d6b757f579e269d31d169cddb806ac695a0
