@@ -189,3 +189,5 @@ k
 ;src/assignments/arrays/KidsWithGreatestNumberOfCandies.java,f\9\f94251e9ed6dc4589352781ddaacf5c5587fbec0
 V
 &src/assignments/arrays/BuildArray.java,b\d\bdfd0201057473f691beebf6325de5534d475944
+[
++src/assignments/functions/DigitCounter.java,6\d\6d23133d0b51c2e650cdf5c1a9ba4d92efc80b08
