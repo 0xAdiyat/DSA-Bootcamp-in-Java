@@ -1,6 +1,4 @@
 
-`
-0src/assignments/functions/PrimeNumberFinder.java,6\4\6412f0c389d44d2fe956a7b41179aa1add17638e
 Å
 Q.idea/sonarlint/securityhotspotstore/b/4/b4a7bae19b29f33712a252f7621fede096989102,2\5\258160246299a60060afb7690a91b6f378e61a64
 w
@@ -93,8 +91,6 @@ w
 G.idea/sonarlint/issuestore/1/8/18e86c55bcd9521e5cf9dcef6b95bef2e85fee1b,e\9\e92844ef83e392d3c64eeaa3ea5572f9b3c8c80b
 w
 G.idea/sonarlint/issuestore/1/e/1e489c8c9415dd784b127cec487164a7f5be6ca9,0\f\0f39b53f81a5ab9407ccd609e9a92afa91d9dd1e
-Å
-Q.idea/sonarlint/securityhotspotstore/6/4/6412f0c389d44d2fe956a7b41179aa1add17638e,f\e\fe6f2ea0406f445d08c4f2061f86e8cc66686755
 w
 G.idea/sonarlint/issuestore/2/4/24efa17f17769084f0efecaed059687079d9b240,8\b\8b7518437b6681521f879fef12ce06f1abc70861
 w
@@ -185,14 +181,8 @@ Q.idea/sonarlint/securityhotspotstore/6/1/61a536e52744b27964ac75a315e16a24e617ef
 Q.idea/sonarlint/securityhotspotstore/6/4/64018d4588a5e3ea2bbb13da7904d768e897fc1a,2\0\20cac5f099556070a9f486241facc956a7db1568
 _
 /src/assignments/arrays/NumOfIdenticalPairs.java,6\a\6aa3121558fd66b49fdd92b43d889b146d466aa8
-b
-2src/assignments/functions/SumOfNaturalNumbers.java,6\4\64100572cda97287654bb063e315fddee050893f
-h
-8src/assignments/functions/PythagoreanTripletChecker.java,7\2\7216712bf6d8f6aaf75023c40676118280a0396f
 H
 DSA Bootcamp in Java.iml,9\9\99fc2d91a8af8b7b2df7fd325763c16facf5f356
-Å
-Q.idea/sonarlint/securityhotspotstore/6/4/64100572cda97287654bb063e315fddee050893f,3\2\32d95c30eb00629d16912894745cd2aba2f0f586
 ^
 .src/assignments/arrays/ArrayConcatenation.java,4\d\4d16cd3ce782f89cdddc9856723c059083c2c643
 k
