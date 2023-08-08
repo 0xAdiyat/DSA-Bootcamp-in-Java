@@ -5,7 +5,9 @@ public class AscSearch {
 
         // Binary Search will only be performed if the array is sorted
         System.out.println(performAscSearch(36, new int[]{-18, -12, 2, 4, 6, 10, 36, 68}));
+
         System.out.println(orderAgnosticBS(45, new int[]{7434, 384, 45, 3}));
+
         System.out.println(orderAgnosticBS(4, new int[]{-18, -12, 2, 4, 6, 10, 36, 68}));
     }
 
@@ -67,8 +69,6 @@ public class AscSearch {
     }
 
     static boolean isAsc(int[] arr) {
-        if (arr[0] < arr[arr.length - 1])
-            return true;
-        else return false;
+        return arr[0] < arr[arr.length - 1];
     }
 }

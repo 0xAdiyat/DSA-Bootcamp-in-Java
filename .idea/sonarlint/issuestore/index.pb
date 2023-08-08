@@ -191,3 +191,5 @@ V
 &src/assignments/arrays/BuildArray.java,b\d\bdfd0201057473f691beebf6325de5534d475944
 [
 +src/assignments/functions/DigitCounter.java,6\d\6d23133d0b51c2e650cdf5c1a9ba4d92efc80b08
+Å
+Q.idea/sonarlint/securityhotspotstore/6/d/6d23133d0b51c2e650cdf5c1a9ba4d92efc80b08,b\0\b00d50dc10d82fb3231db6e51f179756fb0d101e
