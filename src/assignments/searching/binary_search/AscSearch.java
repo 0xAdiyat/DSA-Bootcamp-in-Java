@@ -22,7 +22,7 @@ public class AscSearch {
             // find the middle element
             int middle = start + (end - start) / 2; // might be possible that (start + end) exceeds the range of int in java
             if (target == numbers[middle]) {
-                return middle;
+                return middle; // Answer found
             }
 
             if (target < numbers[middle]) {
