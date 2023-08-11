@@ -11,12 +11,12 @@ public class FindFirstAndLastPosition {
     }
 
     static int[] searchRange(int[] nums, int target) {
-        // Initialize result array with default values
+        // Initialize the result array with default values
         int[] ans = {-1, -1};
 
         // Find the start and end indices of the target value using binary search
-        int start = search(nums, target, true);  // Find start index
-        int end = search(nums, target, false);   // Find end index
+        int start = findIndex(nums, target, true);  // Find start index
+        int end = findIndex(nums, target, false);   // Find end index
 
         // Update the result array with start and end indices
         ans[0] = start;
@@ -26,7 +26,7 @@ public class FindFirstAndLastPosition {
     }
 
     // This function performs binary search to find the index of the target value
-    static int search(int[] nums, int target, boolean findStartIndex) {
+    static int findIndex(int[] nums, int target, boolean findStartIndex) {
         int ans = -1;  // Initialize the result index to -1
         int start = 0;  // Initialize the start of the search range
         int end = nums.length - 1;  // Initialize the end of the search range
@@ -35,7 +35,12 @@ public class FindFirstAndLastPosition {
             // Find the middle element using (start + end) / 2 formula
             int middle = start + (end - start) / 2;
 
-            if (target == nums[middle]) {
+
+            if (target > nums[middle]) {
+                start = middle + 1;  // Adjust [start] to search in the right half
+            } else if (target < nums[middle]) {
+                end = middle - 1;  // Adjust [end] to search in the left half
+            } else {
                 ans = middle;  // Update the result index to the current middle index
                 // Adjust the search range based on whether to find the start index or end index
                 if (findStartIndex) {
@@ -43,12 +48,6 @@ public class FindFirstAndLastPosition {
                 } else {
                     start = middle + 1;  // Adjust start to continue searching in the right half
                 }
-            }
-
-            if (target < nums[middle]) {
-                end = middle - 1;  // Adjust [end] to search in the left half
-            } else {
-                start = middle + 1;  // Adjust [start] to search in the right half
             }
         }
 
